@@ -1,18 +1,10 @@
 # adrod17_installer
 
-A new Flutter project.
+A project that I made as a joke, just to retake my Flutter skills, but starting slowly... and to revive a meme.
+
+Inspired on "adrod 13 installer"
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# adrod17installer
+free adrod 17 istaller
+bro ur fon is bricc 💀💀💀
